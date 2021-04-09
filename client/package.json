@@ -1,0 +1,14 @@
+{
+  "name": "three-test-game",
+  "version": "1.0.0",
+  "description": "test game three js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "DengnisR",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.127.0"
+  }
+}

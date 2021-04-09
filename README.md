@@ -1,1 +1,1 @@
-# Nihongo-SP
+# Three.js test game
